@@ -5,3 +5,9 @@ https://www.google.com/search?q=update+node+js&oq=update&aqs=chrome.0.69i59j69i5
 https://www.hostingadvice.com/how-to/update-node-js-latest-version/
 
 https://stackoverflow.com/questions/18412129/how-can-i-update-npm-on-windows
+
+# github add license after creation
+
+https://www.google.com/search?q=github+add+license+after+creation&oq=add+license+github+&aqs=chrome.2.69i57j0l7.9649j0j7&sourceid=chrome&ie=UTF-8
+
+https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository
