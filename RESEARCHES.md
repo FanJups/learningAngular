@@ -11,3 +11,10 @@ https://stackoverflow.com/questions/18412129/how-can-i-update-npm-on-windows
 https://www.google.com/search?q=github+add+license+after+creation&oq=add+license+github+&aqs=chrome.2.69i57j0l7.9649j0j7&sourceid=chrome&ie=UTF-8
 
 https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository
+
+# update npm windows
+
+https://www.google.com/search?q=update+npm+windows&oq=update+npm+&aqs=chrome.2.69i57j0l4j69i60l2j69i61.7126j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/18412129/how-can-i-update-npm-on-windows
+
