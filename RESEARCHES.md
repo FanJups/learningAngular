@@ -18,3 +18,11 @@ https://www.google.com/search?q=update+npm+windows&oq=update+npm+&aqs=chrome.2.6
 
 https://stackoverflow.com/questions/18412129/how-can-i-update-npm-on-windows
 
+# npm upgrade dependencies
+
+https://www.google.com/search?q=npm+upgrade+dependencies&oq=npm+upgrad&aqs=chrome.5.69i57j0l7.9515j0j7&sourceid=chrome&ie=UTF-8
+
+https://flaviocopes.com/update-npm-dependencies/
+
+https://docs.npmjs.com/cli/update.html
+
