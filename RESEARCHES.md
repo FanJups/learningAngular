@@ -56,6 +56,8 @@ https://www.google.com/search?q=change+port+angular+app&oq=change+port+angular+a
 
 https://stackoverflow.com/questions/40717449/how-to-change-angular-port-from-4200-to-any-other
 
+ng serve --port number_port
+
 
 
 
