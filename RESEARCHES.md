@@ -38,3 +38,11 @@ https://www.google.com/search?sxsrf=ACYBGNTLKzTlOsytDcrUhXDonk_sprsR4A%3A1575812
 
 https://stackoverflow.com/questions/58989195/npm-package-seems-to-be-corrupted
 
+# angular eperm operation not permitted unlink
+
+https://www.google.com/search?q=angular+eperm+operation+not+permitted+unlink&oq=Angular+eperm+&aqs=chrome.2.69i57j0l7.21499j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/46020018/error-eperm-operation-not-permitted-unlink-d-sources-node-modules-fseven
+
+
+
