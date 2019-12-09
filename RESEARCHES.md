@@ -50,5 +50,13 @@ https://www.google.com/search?q=angular+apps+examples&oq=angular+apps+&aqs=chrom
 
 https://www.madewithangular.com/
 
+# change port angular app
+
+https://www.google.com/search?q=change+port+angular+app&oq=change+port+angular+app&aqs=chrome..69i57j0l5.9353j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/40717449/how-to-change-angular-port-from-4200-to-any-other
+
+
+
 
 
