@@ -44,5 +44,11 @@ https://www.google.com/search?q=angular+eperm+operation+not+permitted+unlink&oq=
 
 https://stackoverflow.com/questions/46020018/error-eperm-operation-not-permitted-unlink-d-sources-node-modules-fseven
 
+# angular apps examples
+
+https://www.google.com/search?q=angular+apps+examples&oq=angular+apps+&aqs=chrome.1.69i57j0l7.9800j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.madewithangular.com/
+
 
 
