@@ -58,7 +58,11 @@ https://stackoverflow.com/questions/40717449/how-to-change-angular-port-from-420
 
 ng serve --port number_port
 
+# css class selector
 
+https://www.google.com/search?q=css+class+selector&oq=css+class&aqs=chrome.1.69i57j0l7.8033j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.w3schools.com/cssref/sel_class.asp
 
 
 
