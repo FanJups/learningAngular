@@ -70,5 +70,11 @@ https://www.google.com/search?q=how+to+select+a+tag+of+a+specific+class+in+css&o
 
 https://www.w3schools.com/cssref/sel_class.asp
 
+# comment in css
+
+https://www.google.com/search?q=comment+in+css&oq=comment+in++&aqs=chrome.1.69i57j0l7.13372j0j7&sourceid=chrome&ie=UTF-8
+
+https://apprendre-html.3wa.fr/css/comprendre-css/css-style-html/mettre-commentaires-feuillet-style-css
+
 
 
