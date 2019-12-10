@@ -64,5 +64,11 @@ https://www.google.com/search?q=css+class+selector&oq=css+class&aqs=chrome.1.69i
 
 https://www.w3schools.com/cssref/sel_class.asp
 
+# how to select a tag of a specific class in css
+
+https://www.google.com/search?q=how+to+select+a+tag+of+a+specific+class+in+css&oq=how+to+select+a+tag+of+a+specific+class+in+css&aqs=chrome..69i57.35603j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.w3schools.com/cssref/sel_class.asp
+
 
 
