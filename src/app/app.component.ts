@@ -13,4 +13,11 @@ export class AppComponent {
   "August", "September", "October", "November", "December"];
 
   isavailable = true; //variable is set to false
+
+  myClickFunction(event) {
+    //just added console.log which will display the event details in browser on click of the button.
+    alert("Button is clicked");
+    console.log(event);
+ }
+
 }
