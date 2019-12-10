@@ -359,14 +359,14 @@
  <br/>
   
 <div> 
-  <span *ngIf = "isavailable; then condition1 else condition2">
+  <span *ngIf = "isavailable; else condition2">
      Condition is valid.
   </span> 
   <!--over here based on if condition the text condition is valid is displayed.-->
   <!--If the value of isavailable is set to false it will not display the text.-->
 
-  <ng-template #condition1>Condition is valid</ng-template> 
-  <ng-template #condition2>Condition is invalid</ng-template> 
+  <ng-template #condition1>Condition is valid from template</ng-template> 
+  <ng-template #condition2>Condition is invalid from template</ng-template> 
 </div>
 
 <br/>
