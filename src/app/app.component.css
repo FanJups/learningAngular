@@ -8,3 +8,18 @@ button {
     display: inline-block;
     font-size: 20px;
  }
+
+ /* "a" tag with class routing */
+
+ a.routing:link, a.routing:visited { 
+    background-color: #848686; 
+    color: white; 
+    padding: 10px 25px;
+    margin:30px 30px ; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+ } 
+ a.routing:hover, a.routing:active {
+    background-color: #BD9696;
+ }
