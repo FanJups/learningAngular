@@ -8,6 +8,10 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'angular-app';
 
+  todaydate = new Date(); 
+  jsonval = {name:'Rox', age:'25', address:{a1:'Mumbai', a2:'Karnataka'}}; 
+
+
   // declared array of months. 
   months = ["January", "February", "March", "April", "May", "June", "July", 
   "August", "September", "October", "November", "December"];
