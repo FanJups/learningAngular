@@ -20,4 +20,10 @@ export class AppComponent {
     console.log(event);
  }
 
+ changemonths(event) {
+  alert("Changed month from the Dropdown");
+  console.log("Changed month from the Dropdown");
+  console.log(event);
+}
+
 }

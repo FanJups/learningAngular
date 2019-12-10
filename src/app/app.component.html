@@ -351,11 +351,11 @@
 
   <app-new-cmp></app-new-cmp>
 
-  <div> Months : 
-    <select> 
-       <option *ngFor = "let i of months">{{i}}</option> 
-    </select> 
- </div> 
+  <div> Months :
+    <select (change) = "changemonths($event)">
+       <option *ngFor = "let i of months">{{i}}</option>
+    </select>
+ </div>
  <br/>
   
 <div> 
@@ -376,6 +376,8 @@
 <button (click) = "myClickFunction($event)">
   Click Me
 </button>
+
+<br/>
 
   <!-- Resources -->
   <h2>Resources</h2>
