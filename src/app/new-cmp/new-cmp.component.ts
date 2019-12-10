@@ -8,12 +8,15 @@ import { MyserviceService } from './../myservice.service';
 })
 export class NewCmpComponent implements OnInit {
 
-  newcomponent = "Entered in new component created";
+  newcomponent = "Entered in new component";
+  newcomponentproperty;
 
   todaydateService;
   constructor(private myservice: MyserviceService) {}
   ngOnInit() { 
       this.todaydateService = this.myservice.showTodayDate(); 
+      this.newcomponentproperty = this.myservice.serviceproperty;
+      
    } 
 
 }

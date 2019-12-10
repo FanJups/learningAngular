@@ -10,9 +10,16 @@ export class AppComponent {
   title = 'angular-app';
 
   todaydateService;
+  componentproperty;
    constructor(private myservice: MyserviceService) {}
    ngOnInit() { 
       this.todaydateService = this.myservice.showTodayDate(); 
+      console.log(this.myservice.serviceproperty); 
+      this.myservice.serviceproperty = "component created"; 
+      // value is changed. 
+      this.componentproperty = this.myservice.serviceproperty; 
+      
+
    } 
 
   todaydate = new Date(); 
