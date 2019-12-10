@@ -12,5 +12,5 @@ export class AppComponent {
   months = ["January", "February", "March", "April", "May", "June", "July", 
   "August", "September", "October", "November", "December"];
 
-  isavailable = false; //variable is set to false
+  isavailable = true; //variable is set to false
 }
