@@ -8,6 +8,7 @@ import { ChangeTextDirective } from './change-text.directive';
 
 import { SqrtPipe } from './app.sqrt';
 import { MyserviceService } from './myservice.service';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { MyserviceService } from './myservice.service';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
   providers: [MyserviceService],
   bootstrap: [AppComponent]

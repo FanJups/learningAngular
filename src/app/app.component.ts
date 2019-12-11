@@ -8,6 +8,7 @@ import { MyserviceService } from './myservice.service';
 })
 export class AppComponent {
   title = 'angular-app';
+  public persondata = [];
 
   todaydateService;
   componentproperty;
@@ -18,6 +19,11 @@ export class AppComponent {
       this.myservice.serviceproperty = "component created"; 
       // value is changed. 
       this.componentproperty = this.myservice.serviceproperty; 
+
+      this.myservice.getData().subscribe((data) => {
+        this.persondata = Array.from(Object.keys(data), k=>data[k]);
+        console.log(this.persondata);
+     });
       
 
    } 
