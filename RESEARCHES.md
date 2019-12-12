@@ -76,5 +76,13 @@ https://www.google.com/search?q=comment+in+css&oq=comment+in++&aqs=chrome.1.69i5
 
 https://apprendre-html.3wa.fr/css/comprendre-css/css-style-html/mettre-commentaires-feuillet-style-css
 
+# vulnerabilities
+
+## axobject-query@2.1.1 a peer of eslint@^5 || ^6 but none is installed. You must install peer dependencies yourself
+
+https://www.google.com/search?q=axobject-query%402.1.1+a+peer+of+eslint%40%5E5+%7C%7C+%5E6+but+none+is+installed.+You+must+install+peer+dependencies+yourself&oq=axobject-query%402.1.1+a+peer+of+eslint%40%5E5+%7C%7C+%5E6+but+none+is+installed.+You+must+install+peer+dependencies+yourself&aqs=chrome..69i57.147017j0j4&sourceid=chrome&ie=UTF-8
+
+https://www.npmjs.com/package/angular-schematics-tutorial
+
 
 
