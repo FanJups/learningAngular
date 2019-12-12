@@ -10,7 +10,7 @@ import { SqrtPipe } from './app.sqrt';
 import { MyserviceService } from './myservice.service';
 import { HttpClientModule } from '@angular/common/http';
 
-import { FormsModule } from '@angular/forms';
+import { ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -24,7 +24,7 @@ import { FormsModule } from '@angular/forms';
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    FormsModule
+    ReactiveFormsModule
   ],
   providers: [MyserviceService],
   bootstrap: [AppComponent]

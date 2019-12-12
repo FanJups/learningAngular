@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
 import { MyserviceService } from './myservice.service';
 
+import { FormGroup, FormControl } from '@angular/forms';
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -8,6 +10,8 @@ import { MyserviceService } from './myservice.service';
 })
 export class AppComponent {
   title = 'angular-app';
+  emailid; 
+  formdata;
   public persondata = [];
 
   todaydateService;
@@ -20,10 +24,16 @@ export class AppComponent {
       // value is changed. 
       this.componentproperty = this.myservice.serviceproperty; 
 
+
       this.myservice.getData().subscribe((data) => {
         this.persondata = Array.from(Object.keys(data), k=>data[k]);
         console.log(this.persondata);
      });
+
+     this.formdata = new FormGroup({ 
+      emailid: new FormControl("angular@gmail.com"),
+      passwd: new FormControl("abcd1234") 
+   });
       
 
    } 
@@ -50,8 +60,6 @@ export class AppComponent {
   console.log(event);
 }
 
-onClickSubmit(data) {
-  alert("Entered Email id : " + data.emailid); 
-}
+onClickSubmit(data) {this.emailid = data.emailid;}
 
 }
