@@ -13,6 +13,7 @@ export class AppComponent {
   emailid; 
   formdata;
   public persondata = [];
+  public albumdetails = [];
 
   todaydateService;
   componentproperty;
@@ -29,6 +30,11 @@ export class AppComponent {
         this.persondata = Array.from(Object.keys(data), k=>data[k]);
         console.log(this.persondata);
      });
+
+     this.myservice.getDataPictures().subscribe((data) => {
+      this.albumdetails = Array.from(Object.keys(data), k=>data[k]);
+      console.log(this.albumdetails);
+   });
 
      this.formdata = new FormGroup({
       emailid: new FormControl("", Validators.compose([

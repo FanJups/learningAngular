@@ -39,3 +39,11 @@ input[type = submit] {
    border: 1px solid #B3A9A9; 
    box-sizing: border-box; 
 }
+
+table {
+   width: 100%;
+}
+cdk-virtual-scroll-viewport {
+   height: 500px;
+   width: 100%;
+}

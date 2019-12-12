@@ -462,6 +462,26 @@
 <p> Email entered is : {{emailid}} </p>
 <br/>
 
+<h3>Angular 8 - Virtual Scrolling</h3>
+<cdk-virtual-scroll-viewport [itemSize] = "5">
+   <table>
+      <thead>
+         <tr>
+            <td>ID</td>
+            <td>ThumbNail</td>
+         </tr>
+      </thead>
+      <tbody>
+         <tr *cdkVirtualFor = "let album of albumdetails">
+            <td>{{album.id}}</td>
+            <td>
+               <img src = "{{album.thumbnailUrl}}" width = "100" height = "100"/>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+</cdk-virtual-scroll-viewport>
+
 
 
   <!-- Resources -->
