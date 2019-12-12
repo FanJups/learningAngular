@@ -104,6 +104,10 @@ https://stackoverflow.com/questions/59256347/serialize-javascript-vulnerability-
 
 https://github.com/streamlit/streamlit/issues/819
 
+# Upgrade serialize-javascript command
+
+npm i serialize-javascript
+
 
 
 
