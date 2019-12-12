@@ -84,5 +84,21 @@ https://www.google.com/search?q=axobject-query%402.1.1+a+peer+of+eslint%40%5E5+%
 
 https://www.npmjs.com/package/angular-schematics-tutorial
 
+# how to write >= in json
+
+https://www.google.com/search?q=how+to+write+%3E%3D+in+json&oq=how+to+write+%3E%3D+in+json&aqs=chrome..69i57j0l7.14751j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.ibm.com/support/knowledgecenter/en/SSEPGG_10.5.0/com.ibm.swg.im.dbclient.json.doc/doc/r0061296.html
+
+# how to write version  >= in json
+
+https://www.google.com/search?sxsrf=ACYBGNQ_7v_jPu0sOMK5gwX9tSwTiy5l4w%3A1576139651012&ei=g_vxXeMwlb3V8A_o2o6oBg&q=how+to+write+version++%3E%3D+in+json&oq=how+to+write+version++%3E%3D+in+json&gs_l=psy-ab.3...587384.589917..593377...0.6..0.469.2894.2-1j7j1......0....1..gws-wiz.......0i71j0i7i30j0i8i7i30.PkYaliqm_bw&ved=0ahUKEwij_o7g2a_mAhWVXhUIHWitA2UQ4dUDCAs&uact=5
+
+https://flaviocopes.com/package-json/
+
+
+
+
+
 
 
