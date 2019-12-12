@@ -96,6 +96,14 @@ https://www.google.com/search?sxsrf=ACYBGNQ_7v_jPu0sOMK5gwX9tSwTiy5l4w%3A1576139
 
 https://flaviocopes.com/package-json/
 
+# Upgrade serialize-javascript to version 2.1.1 or later
+
+https://www.google.com/search?q=Upgrade+serialize-javascript+to+version+2.1.1+or+later&oq=Upgrade+serialize-javascript+to+version+2.1.1+or+later&aqs=chrome..69i57j33.1756j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/59256347/serialize-javascript-vulnerability-found-in-yarn-lock
+
+https://github.com/streamlit/streamlit/issues/819
+
 
 
 
