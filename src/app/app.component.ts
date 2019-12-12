@@ -50,4 +50,8 @@ export class AppComponent {
   console.log(event);
 }
 
+onClickSubmit(data) {
+  alert("Entered Email id : " + data.emailid); 
+}
+
 }
