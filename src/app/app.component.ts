@@ -35,7 +35,7 @@ export class AppComponent {
          Validators.required,
          Validators.pattern("[^ @]*@[^ @]*")
       ])),
-      passwd: new FormControl("")
+      passwd: new FormControl("", this.passwordvalidation)
    });
       
 
@@ -61,6 +61,12 @@ export class AppComponent {
   alert("Changed month from the Dropdown");
   console.log("Changed month from the Dropdown");
   console.log(event);
+}
+
+passwordvalidation(formcontrol) {
+  if (formcontrol.value.length < 5) {
+     return {"passwd" : true};
+  }
 }
 
 onClickSubmit(data) {this.emailid = data.emailid;}
