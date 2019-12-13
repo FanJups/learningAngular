@@ -108,6 +108,10 @@ https://github.com/streamlit/streamlit/issues/819
 
 npm i serialize-javascript
 
+# Interesting Angular. Weather App
+
+https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h
+
 
 
 
