@@ -112,8 +112,10 @@ npm i serialize-javascript
 
 https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h
 
+# Deploying FrontEnd App
 
 
+https://medium.com/hackernoon/deploying-frontend-applications-the-fun-way-bc3f69e15331
 
 
 
