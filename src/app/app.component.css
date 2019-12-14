@@ -47,3 +47,11 @@ cdk-virtual-scroll-viewport {
    height: 500px;
    width: 100%;
 }
+
+.divlayout{
+   width: 40%;
+   background-color: #ccc;
+   margin-bottom: 5px;
+   padding: 10px 10px;
+   border: 3px solid #73AD21;
+}

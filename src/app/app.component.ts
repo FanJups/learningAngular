@@ -3,6 +3,9 @@ import { MyserviceService } from './myservice.service';
 
 import { FormGroup, FormControl, Validators } from '@angular/forms';
 
+import {CdkDragDrop, moveItemInArray, transferArrayItem} from '@angular/cdk/drag-drop';
+
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -14,6 +17,7 @@ export class AppComponent {
   formdata;
   public persondata = [];
   public albumdetails = [];
+  public personaldetails = [];
 
   todaydateService;
   componentproperty;
@@ -35,6 +39,11 @@ export class AppComponent {
       this.albumdetails = Array.from(Object.keys(data), k=>data[k]);
       console.log(this.albumdetails);
    });
+
+   this.myservice.getDataUsers().subscribe((data) => {
+    this.personaldetails = Array.from(Object.keys(data), k=>data[k]);
+    console.log(this.personaldetails);
+ });
 
      this.formdata = new FormGroup({
       emailid: new FormControl("", Validators.compose([
@@ -76,5 +85,17 @@ passwordvalidation(formcontrol) {
 }
 
 onClickSubmit(data) {this.emailid = data.emailid;}
+
+onDrop(event: CdkDragDrop<string[]>) {
+  if (event.previousContainer === event.container) {
+     moveItemInArray(event.container.data, 
+        event.previousIndex, event.currentIndex);
+  } else {
+     transferArrayItem(event.previousContainer.data,
+     event.container.data,
+     event.previousIndex,
+     event.currentIndex);
+  }
+}
 
 }

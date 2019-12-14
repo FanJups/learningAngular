@@ -9,6 +9,7 @@ export class MyserviceService {
   private finaldata = [];
   private apiurl = "http://jsonplaceholder.typicode.com/users";
   private apiUrlPictures = "https://jsonplaceholder.typicode.com/photos";
+  private apiUrlUsers = "http://jsonplaceholder.typicode.com/users";
 
   serviceproperty = "Service Created";
   constructor(private http: HttpClient) { }
@@ -19,6 +20,10 @@ export class MyserviceService {
    getDataPictures() {
     return this.http.get(this.apiUrlPictures);
  }
+
+ getDataUsers() {
+  return this.http.get(this.apiUrlUsers);
+}
 
 
   showTodayDate() { 
