@@ -117,6 +117,11 @@ https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in
 
 https://medium.com/hackernoon/deploying-frontend-applications-the-fun-way-bc3f69e15331
 
+# package @angular/cli is not a dependency
+
+https://www.google.com/search?q=package+%40angular%2Fcli+is+not+a+dependency&oq=package+%40angular%2Fcli+is+not+a+dependency&aqs=chrome..69i57j69i58.20932j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/57751607/package-angular-cli-is-not-a-dependency
 
 
 
