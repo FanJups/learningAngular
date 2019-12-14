@@ -55,3 +55,17 @@ cdk-virtual-scroll-viewport {
    padding: 10px 10px;
    border: 3px solid #73AD21;
 }
+
+.example-container { 
+   width: 500px;  
+   height: 300px; 
+   border: 1px solid rgba(0, 0, 0, 0.5); 
+}
+.example-sidenav { 
+   padding: 20px; 
+   width: 150px; 
+   font-size: 20px;
+   border: 1px solid rgba(0, 0, 0, 0.5); 
+   background-color: #ccc; 
+   color:white; 
+}

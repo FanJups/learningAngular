@@ -16,6 +16,8 @@ import { ScrollDispatchModule } from '@angular/cdk/scrolling';
 import { DragDropModule } from '@angular/cdk/drag-drop';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
+import { MatButtonModule, MatMenuModule, MatSidenavModule } from '@angular/material';
+
 @NgModule({
   declarations: [
     SqrtPipe,
@@ -31,7 +33,10 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     ReactiveFormsModule,
     ScrollDispatchModule,
     DragDropModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    MatButtonModule,
+    MatMenuModule,
+    MatSidenavModule
   ],
   providers: [MyserviceService],
   bootstrap: [AppComponent]
