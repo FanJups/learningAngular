@@ -123,5 +123,11 @@ https://www.google.com/search?q=package+%40angular%2Fcli+is+not+a+dependency&oq=
 
 https://stackoverflow.com/questions/57751607/package-angular-cli-is-not-a-dependency
 
+# angular app travis ci docker heroku
+
+https://www.google.com/search?q=angular+app+travis+ci+docker+heroku&oq=angular+app+travis+ci+docker+heroku&aqs=chrome..69i57j69i64.21620j0j7&sourceid=chrome&ie=UTF-8
+
+https://medium.com/@adamwheatley_61937/continuous-integration-with-angular-5-travis-docker-and-heroku-eb93d58e9352
+
 
 
