@@ -135,5 +135,8 @@ https://www.google.com/search?q=ttutorialspoint+angular+nativescript&oq=ttutoria
 
 https://docs.nativescript.org/start/introduction
 
+# android NAtiveScript
+
+https://docs.nativescript.org/tooling/publishing/publishing-android-apps
 
 
