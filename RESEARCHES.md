@@ -129,5 +129,11 @@ https://www.google.com/search?q=angular+app+travis+ci+docker+heroku&oq=angular+a
 
 https://medium.com/@adamwheatley_61937/continuous-integration-with-angular-5-travis-docker-and-heroku-eb93d58e9352
 
+# ttutorialspoint angular nativescript
+
+https://www.google.com/search?q=ttutorialspoint+angular+nativescript&oq=ttutorialspoint+angular+native&aqs=chrome.1.69i57j33.19814j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.nativescript.org/start/introduction
+
 
 
