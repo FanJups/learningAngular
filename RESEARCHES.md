@@ -139,4 +139,6 @@ https://docs.nativescript.org/start/introduction
 
 https://docs.nativescript.org/tooling/publishing/publishing-android-apps
 
+# Ios NativeScript
+
 
