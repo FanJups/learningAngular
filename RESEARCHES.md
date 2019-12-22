@@ -175,4 +175,8 @@ https://www.google.com/search?q=angular+accessibility&oq=angular+accessib&aqs=ch
 
 https://angular.io/guide/accessibility
 
+# angular security
+
+https://angular.io/guide/security
+
 
