@@ -143,4 +143,10 @@ https://docs.nativescript.org/tooling/publishing/publishing-android-apps
 
 https://docs.nativescript.org/tooling/publishing/publishing-ios-apps
 
+# angular intertionalization
+
+https://www.google.com/search?q=angular+intertionalization&oq=angular+intertionalization&aqs=chrome..69i57j69i64.34912j0j7&sourceid=chrome&ie=UTF-8
+
+https://angular.io/guide/i18n
+
 
