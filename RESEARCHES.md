@@ -161,4 +161,6 @@ https://angular-templates.io/tutorials/about/angular-internationalization-i18n-m
 
 https://www.javacodegeeks.com/2019/05/angular-internationalization-example.html
 
+https://medium.com/frontend-fun/angular-introduction-to-internationalization-i18n-28226a85e04e
+
 
