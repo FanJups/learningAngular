@@ -159,4 +159,6 @@ https://alligator.io/angular/internationalization/
 
 https://angular-templates.io/tutorials/about/angular-internationalization-i18n-multi-language-app
 
+https://www.javacodegeeks.com/2019/05/angular-internationalization-example.html
+
 
