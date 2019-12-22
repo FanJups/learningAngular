@@ -163,4 +163,6 @@ https://www.javacodegeeks.com/2019/05/angular-internationalization-example.html
 
 https://medium.com/frontend-fun/angular-introduction-to-internationalization-i18n-28226a85e04e
 
+https://blog.ninja-squad.com/2019/12/10/angular-localize/
+
 
