@@ -165,4 +165,6 @@ https://medium.com/frontend-fun/angular-introduction-to-internationalization-i18
 
 https://blog.ninja-squad.com/2019/12/10/angular-localize/
 
+https://www.freecodecamp.org/news/how-to-implement-localization-in-angular-using-i18n-tools-a88898b1a0d0/
+
 
