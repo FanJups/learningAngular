@@ -169,4 +169,10 @@ https://www.freecodecamp.org/news/how-to-implement-localization-in-angular-using
 
 https://dzone.com/articles/angular-localization-and-internationalization
 
+# angular accessibility
+
+https://www.google.com/search?q=angular+accessibility&oq=angular+accessib&aqs=chrome.1.69i57j0l7.9537j0j7&sourceid=chrome&ie=UTF-8
+
+https://angular.io/guide/accessibility
+
 
