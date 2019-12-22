@@ -149,4 +149,12 @@ https://www.google.com/search?q=angular+intertionalization&oq=angular+intertiona
 
 https://angular.io/guide/i18n
 
+# angular intertionalization project examples
+
+https://www.google.com/search?q=angular+intertionalization+project+examples&oq=angular+intertionalization+project+examples&aqs=chrome..69i57j69i64.11660j0j7&sourceid=chrome&ie=UTF-8
+
+## landing page example
+
+https://alligator.io/angular/internationalization/
+
 
