@@ -157,4 +157,6 @@ https://www.google.com/search?q=angular+intertionalization+project+examples&oq=a
 
 https://alligator.io/angular/internationalization/
 
+https://angular-templates.io/tutorials/about/angular-internationalization-i18n-multi-language-app
+
 
