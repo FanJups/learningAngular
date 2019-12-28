@@ -183,4 +183,7 @@ https://angular.io/guide/accessibility
 
 https://angular.io/guide/security
 
+# best-practices-for-a-clean-and-performant-angular-application
+
+https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f/amp/
 
